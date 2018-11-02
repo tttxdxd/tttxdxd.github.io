@@ -1,2 +1,2 @@
-# ttttdxd.github.io
-# author: [无定喵](tttxdxd.github.io)
+### 个人网站：ttttdxd.github.io
+### 作者: [无定喵](https://tttxdxd.github.io)
