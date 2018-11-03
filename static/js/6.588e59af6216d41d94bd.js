@@ -1,0 +1,2 @@
+webpackJsonp([6],{"2wP0":function(t,e){},pkkc:function(t,e,r){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var n={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"touch",attrs:{id:"my-footer"}},[e("Footer",{staticClass:"layout-footer-center"},[this._v("2018-2018 © 无定喵")])],1)},staticRenderFns:[]};var o=r("VU/8")({name:"MyFooter"},n,!1,function(t){r("2wP0")},"data-v-4407e562",null);e.default=o.exports}});
+//# sourceMappingURL=6.588e59af6216d41d94bd.js.map

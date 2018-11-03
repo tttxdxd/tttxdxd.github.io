@@ -1,0 +1,2 @@
+webpackJsonp([5],{TQn5:function(e,n){},qxAV:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{attrs:{id:"my-home"}},[this._v("\n  myhome\n")])},staticRenderFns:[]};var a=t("VU/8")({name:"MyHome"},r,!1,function(e){t("TQn5")},"data-v-4c5d0d26",null);n.default=a.exports}});
+//# sourceMappingURL=5.fc17774260ce9ef1bcac.js.map
